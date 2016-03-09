@@ -1,0 +1,13 @@
+.box {
+  background: tomato;
+  height: 250px;
+  width: 100%;
+  display: block;
+  margin-top: 1em;
+  line-height: 200px;
+  text-align: center; }
+
+body {
+  background-color: yellow; }
+
+/*# sourceMappingURL=estilos.css.map */

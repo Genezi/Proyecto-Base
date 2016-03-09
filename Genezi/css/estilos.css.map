@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI;EACH,UAAU,EAAE,MAAM;EAClB,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,IAAI;EACX,OAAO,EAAE,KAAK;EACd,UAAU,EAAE,GAAG;EACf,WAAW,EAAE,KAAK;EAClB,UAAU,EAAE,MAAM;;ACLnB,IAAI;EACH,gBAAgB,EAAE,MAAM",
+"sources": ["temas-sass/_box.scss","estilos.scss"],
+"names": [],
+"file": "estilos.css"
+}
